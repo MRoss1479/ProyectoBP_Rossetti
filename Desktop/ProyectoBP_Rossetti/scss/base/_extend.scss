@@ -1,0 +1,18 @@
+//extend
+
+%cajaGral {
+        background-color: $color-segundo;
+        width: 100%;
+        height: auto;
+}
+
+%cajitas {
+    background-color: $color-cuarto;
+    margin: 1rem;
+    padding: 0.8rem;
+    border: 3px solid $color-tercero;
+    border-radius: 1rem;
+    text-align: center;
+    font-family: $font-principal;
+    
+}
